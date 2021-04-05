@@ -1,5 +1,5 @@
 # Arduino Snake Game
-A simple snake game developed in C++ using embedded concepts (Arduino).
+A simple snake game developed in C++ using embedded computing concepts (Arduino).
 
 
 # Execution
